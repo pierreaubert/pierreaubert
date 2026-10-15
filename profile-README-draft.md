@@ -12,6 +12,21 @@ I build tools to understand sound, create native interfaces, and simulate the ph
 
 ![Rust](https://img.shields.io/badge/Rust-192d29?logo=rust) ![Audio DSP](https://img.shields.io/badge/Audio_DSP-1b3530) ![GPUI](https://img.shields.io/badge/GPUI-dfe4da?logo=data:image/svg+xml;base64,) ![FEM-BEM](https://img.shields.io/badge/FEM_BEM-e1dccf) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="assets/project-sotf.jpg" alt="SotF — audio waveforms" width="420"><br><b>01 · SotF</b><br>Audio DSP</td>
+<td align="center"><img src="assets/project-gpui.jpg" alt="gpui-toolkit — native interface wireframe" width="420"><br><b>02 · gpui-toolkit</b><br>Native interfaces</td>
+</tr>
+<tr>
+<td align="center"><img src="assets/project-sonium.png" alt="Sonium — simulation mesh" width="420"><br><b>03 · Sonium</b><br>Simulation</td>
+<td align="center"><img src="assets/project-spinorama.png" alt="Spinorama — measurement curves" width="420"><br><b>04 · Spinorama</b><br>Measurements</td>
+</tr>
+</table>
+
+</div>
+
 ## Selected projects / 01—04
 
 ### 01 / Audio engineering — SOUND OF THE FUTURE
