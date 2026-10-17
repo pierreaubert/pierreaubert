@@ -27,23 +27,23 @@ From loudspeaker measurements to physical simulation, these projects explore the
       <a href="https://github.com/pierreaubert/sotf/issues">Contribute ↗</a>
     </td>
     <td align="center"><img src="assets/project-gpui.png" alt="gpui-toolkit — native interface wireframe" width="420"><br>
-      <b>gpui-toolkit</b>Build Native interfaces in Rust or Python<br>
-      A toolkit for expressive native applications. Reusable UI components, design tokens, charting primitives, and tooling built around GPUI.<br>
+      <b>GPUI-toolkit</b>: Build Native interfaces in Rust or Python<br>
+      A toolkit for expressive native applications. Reusable UI components, design tokens, charting primitives, and tooling<br>
       <a href="https://gpui-toolkit.spinorama.org/">Try the live demos ↗</a> · 
       <a href="https://github.com/pierreaubert/gpui-toolkit">Source ↗</a> · 
       <a href="https://github.com/pierreaubert/gpui-toolkit/blob/main/CONTRIBUTING.md">Contribute ↗</a>
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/project-sonium.png" alt="Sonium — simulation mesh" width="420"><br><b>
-	Sonium</b>Multi-physics and simulation<br>
-      Numerical tools for the physical world. Multi-physics FEM and BEM solvers, mesh generation, and shape and topology optimisation in an open source Rust core.<br>
+    <td align="center"><img src="assets/project-sonium.png" alt="Sonium — simulation mesh" width="420"><br>
+      <b>Sonium</b>: Multi-physics and simulation<br>
+      Numerical tools for the physical world. Multi-physics FEM and BEM solvers, mesh generation, and shape and topology optimisation.<br>
       <a href="https://sonium.spinorama.org">Explore Sonium ↗</a> · 
       <a href="https://github.com/pierreaubert/sonium">Source ↗</a> · 
       <a href="https://github.com/pierreaubert/sonium/issues">Contribute ↗</a>  </td>
     <td align="center"><img src="assets/project-spinorama.png" alt="Spinorama — measurement curves" width="420"><br>
-      <b>Spinorama</b>: Speaker Measurements br>
-      Understand loudspeakers through measurement. Browse, compare, and analyse speaker data, with frequency response plots and documentation to guide your exploration.
+      <b>Spinorama</b>: Speaker Measurements<br>
+      Understand loudspeakers through measurement. Browse, compare, and analyse speaker data to guide your exploration.
       <br>
       <a href="https://www.spinorama.org/">Explore the database ↗</a> · 
       <a href="https://github.com/pierreaubert/spinorama">Source ↗</a> · 
