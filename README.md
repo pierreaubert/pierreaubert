@@ -14,12 +14,24 @@ From loudspeaker measurements to physical simulation, these projects explore the
 
 <table>
 <tr>
-<td align="center"><img src="assets/project-sotf.jpg" alt="SotF — audio waveforms" width="420"><br><b>01 · SotF</b><br>Audio DSP</td>
-<td align="center"><img src="assets/project-gpui.jpg" alt="gpui-toolkit — native interface wireframe" width="420"><br><b>02 · gpui-toolkit</b><br>Native interfaces</td>
+  <td align="center">
+    <img src="assets/project-sotf.png" alt="SotF — audio waveforms" width="420"><br>
+    <b>SotF</b>: Audio Swiss Army Knife <br>
+    [Discover SotF ↗](https://sotf.spinorama.org) · [Source ↗](https://github.com/pierreaubert/sotf) · [Contribute ↗](https://github.com/pierreaubert/sotf/issues)
+  </td>
+  <td align="center"><img src="assets/project-gpui.png" alt="gpui-toolkit — native interface wireframe" width="420"><br>
+    <b>gpui-toolkit</b>Build Native interfaces in Rust or Python<br>
+    [Try the live demos ↗](https://gpui-toolkit.spinorama.org/) · [Source ↗](https://github.com/pierreaubert/gpui-toolkit) · [Contribute ↗](https://github.com/pierreaubert/gpui-toolkit/blob/main/CONTRIBUTING.md)
+  </td>
 </tr>
 <tr>
-<td align="center"><img src="assets/project-sonium.png" alt="Sonium — simulation mesh" width="420"><br><b>03 · Sonium</b><br>Simulation</td>
-<td align="center"><img src="assets/project-spinorama.png" alt="Spinorama — measurement curves" width="420"><br><b>04 · Spinorama</b><br>Measurements</td>
+  <td align="center"><img src="assets/project-sonium.png" alt="Sonium — simulation mesh" width="420"><br><b>
+    Sonium</b>Multi-physics and simulation<br>
+    [Explore Sonium ↗](https://sonium.spinorama.org) · [Source ↗](https://github.com/pierreaubert/sonium) · [Contribute ↗](https://github.com/pierreaubert/sonium/issues)  </td>
+  <td align="center"><img src="assets/project-spinorama.png" alt="Spinorama — measurement curves" width="420"><br>
+    <b>Spinorama</b>: Speaker Measurements br>
+    [Explore the database ↗](https://www.spinorama.org/) · [Source ↗](https://github.com/pierreaubert/spinorama) · [Contribute ↗](https://github.com/pierreaubert/spinorama/issues)
+  </td>
 </tr>
 </table>
 
